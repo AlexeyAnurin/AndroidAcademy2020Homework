@@ -1,4 +1,4 @@
-package ru.skillbranch.androidacademy2020homework2
+package ru.skillbranch.androidacademy2020homework
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
