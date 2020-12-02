@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">AndroidAcademy2020Homework2</string>
     <string name="movieTitle">Avengers: \nEnd Game</string>
+    <string name="movieTitle_movies_avengers">Avengers: End Game</string>
     <string name="tagline">Action, Adventure, Fantasy</string>
     <string name="reviews">125 REVIEWS</string>
+    <string name="duration_movies_avengers">137 MIN</string>
     <string name="storyLine">After the devastating events of Avengers: the universe is in ruins.
         With the help of remaining allies, the Avengers assemble once more in order to reverse
         Thanos actions and restore balance to the universe.</string>

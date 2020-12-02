@@ -1,4 +1,4 @@
-package ru.skillbranch.androidacademy2020homework2
+package ru.skillbranch.androidacademy2020homework
 
 import org.junit.Test
 
